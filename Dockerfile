@@ -1,3 +1,3 @@
-From k8s.gcr.io/ingress-nginx/controller:v1.2.0
+From registry.k8s.io/ingress-nginx/controller:v1.5.1
 MAINTAINER lixiaokun <1113822884@qq.com>
 
